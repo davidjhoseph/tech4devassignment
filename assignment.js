@@ -66,6 +66,6 @@ const users = [
 
 // Questions
 //1. I want a new array that returns the current content of the array but adds a total property to each user, all i need in the total property is the total amount of products for that user. Please note that total amount should also account for quantity. 
-//2. I want a new array that returns only people whose total is over 3500
+//2. I want a new array that returns only users whose total is over 3500
 //3. I want a new array that returns this same array but with a full name property that adds the first name and the last name;
 //4. I want a new array that returns only products who have quantity more  than 2 
