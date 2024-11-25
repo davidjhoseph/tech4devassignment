@@ -11,10 +11,22 @@
 'number'; 30
 'Boolean'; true; false
 
-'*** Start with Array methods' 
+'*** Start with Array methods'
 'String Concatenation'
-"Class and OOP";
+"Class and OOP"
 
+"Promises and Asynchronous Operations"
+"extending a class"
+
+
+const array = []
+const object = {}
+const string = ''
+
+
+
+
+array.map()
 
 map() //
 forEach() //
