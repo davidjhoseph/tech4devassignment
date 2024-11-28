@@ -1,3 +1,5 @@
+
+
 export class Product {
   #handlePromise = async ({ url, method = "GET", body = null }) => {
     const response = await fetch(`https://fakestoreapi.com/${url}`, {
